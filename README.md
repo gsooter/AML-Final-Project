@@ -18,5 +18,16 @@ Included you will find a few things
       ii. these should be enough to run much of the needed code inorder to try to replicate our results.  
       iii. We have also included all of our cleaning code so you can reproduce if you choose to pull from WRDS/CRSP.  
       
+Here is a link to our write up
 
 https://medium.com/@soumibasu0193/abstract-f8f676b0aaae
+
+
+
+Here is a list of links to our sources
+
+1.  https://arxiv.org/pdf/2007.06848.pdf 
+2.  https://www.researchgate.net/figure/Recurrent-Neural-Network-Structure-The-left-is-the-typical-RNN-structure-The-right-part_fig3_311805526
+3.  https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+4.  https://stats.stackexchange.com/questions/222584/difference-between-feedback-rnn-and-lstm-gru
+5.  https://stackoverflow.com/questions/50488427/what-is-the-architecture-behind-the-keras-lstm-cell
