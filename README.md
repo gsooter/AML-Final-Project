@@ -13,7 +13,7 @@ Included you will find a few things
 3. Script which runs and optimizes a BNN
 4. Various scripts to run LSTM with differnet hyperparametors and data
 5. Various scripts used in assessing the preformance of our portfolios
-6. We have also included many data files which are used in various steps. 
+6. We have also included many data files which are used in various steps.    
       i. We have not included all of our data files because many were to big for github.  
       ii. these should be enough to run much of the needed code inorder to try to replicate our results.  
       iii. We have also included all of our cleaning code so you can reproduce if you choose to pull from WRDS/CRSP.  
