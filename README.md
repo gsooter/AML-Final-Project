@@ -20,7 +20,7 @@ Included you will find a few things
       
 Here is a link to our write up
 
-https://medium.com/@soumibasu0193/abstract-f8f676b0aaae
+https://medium.com/@soumibasu0193/invested-stock-market-prediction-with-neural-networks-6c153ce97321
 
 
 
