@@ -18,3 +18,5 @@ Included you will find a few things
       ii. these should be enough to run much of the needed code inorder to try to replicate our results.  
       iii. We have also included all of our cleaning code so you can reproduce if you choose to pull from WRDS/CRSP.  
       
+
+https://medium.com/@soumibasu0193/abstract-f8f676b0aaae
